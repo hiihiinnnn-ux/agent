@@ -1,0 +1,14 @@
+{
+  "name": "zaincash-conversational-wallet-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A guarded Iraqi Arabic wallet-agent demo with a local wallet simulator.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "demo": "node src/demo.js"
+  }
+}
